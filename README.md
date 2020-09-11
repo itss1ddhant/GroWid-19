@@ -7,3 +7,5 @@ Android Application :- (Still under development)
 • It also included a QR Scanner which was an improved alternative to the Bluetooth tracking technology used  
 
 • It also provided health tips and diet regularity details for the affected patients
+
+Gradle and Build files will be uploaded soon after working with Splash Screen feature!
